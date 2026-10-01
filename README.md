@@ -2,5 +2,7 @@
 
 
 <h1>About Me</h1>
-Hello! 🤍 
-<p>I am in <b>9th grade</b>. <br> My favorite food is sushi 🍣.<br> My favorite color is <I>Pink🌸</I>.<br> I am Armenian 🇦🇲</p>
+Hello! 🤍  
+<br> My favorite food is sushi 🍣.<br> My favorite color is <I>Pink🌸</I>.<br> I am Armenian 🇦🇲. <br> My favorite animals are dogs.
+<p> I love flowers</p>
+<img src= "<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjFebrzHREo804m0SrWM0TY7vtJckO6DTqNf3IoiblLZ4v6I8POLp6ji6p&amp;s=10" alt="bulbs"/><img width="426" height="640" alt="image" src="https://github.com/user-attachments/assets/18adfe74-e9d0-4853-8a04-304a613cf5f1"/>
