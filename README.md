@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 <h1>About Me</h1>
-Hello I am <b>Gohar</b> 🤍 
-<p>I am 14 years old and I am in <b>9th grade</b>. <br> My favorite food is sushi 🍣.<br> My favorite color is <I>Pink</I>.<br> I am Armenian 🇦🇲</p>
+Hello! 🤍 
+<p>I am in <b>9th grade</b>. <br> My favorite food is sushi 🍣.<br> My favorite color is <I>Pink</I>.<br> I am Armenian 🇦🇲</p>
